@@ -1,29 +1,36 @@
-### bolero2, Who are you? 🧐
+## 🧐 bolero2, Who are you?
 
-🔭 I’m currently working on [NeuralWorksLab](https://neuralworks.io)  
+- 🔭 I’m currently working on [NeuralWorksLab](https://neuralworks.io)  
   
-📫 How to reach me: sheocjf1025@gmail.com  
+- 📫 How to reach me: sheocjf1025@gmail.com  
   
-🌱 I’m currently learning...
-  * Computer Vision + Image Processing
-  * _**Deep Learning + Artificial Intelligence**_
-  * Machine Learning
-  * Android / iOS
+- 🌱 I’m currently learning...  
+    * Computer Vision + Image Processing  
+    * _**Deep Learning + Artificial Intelligence**_  
+    * Machine Learning  
+    * Android / iOS  
 
-### Tech Stack
+## 🛠 Tech Stack
+1. C/C++
+3. Java
+4. **Python**
+5. Android Programming
 
-### Tech blog
-👉 My blog is here: [velog.io/@bolero2](https://velog.io/@bolero2)
+## 🛠 Deep Learning Framework
+1. **Pytorch (Facebook)**
+2. Tensorflow (Google)
+3. MXNet (Apache)
 
-### Projects
+## 📝 Tech blog
+- 👉 My blog is here: [velog.io/@bolero2](https://velog.io/@bolero2)
+
+## 🎬 Projects
 1. 시각 AI와 on-device AI 기술을 활용한 차세대 lens-free cell counter & analyzer 개발 (with. SOL)
-  - Cell Detection Result Image
-  
-  - White Blood Cell Detection Result Image (Raabin WBC Dataset)
+    * Cell Detection Result Image : [Cell Detection](https://github.com/bolero2/bolero2/blob/main/images/cellcounter-1.jpg)
+    * White Blood Cell Detection Result Image (Raabin WBC Dataset) : [WBC Detection](https://github.com/bolero2/bolero2/blob/main/images/wbc-1.jpg)
+2. 내시경 이미지 기반 위암/대장암 진단 AI (병변 Detection AI & 병기 Classification AI) (with. CyberLogitec)
 
-3. 내시경 이미지 기반 위암/대장암진단 AI (병변 detection AI & 병기 classification AI) (with. CyberLogitec)
-
-### Papers
+## Papers
 |Date|Name|Link|
 |:-----------:|:-----------|:-----------:|
 |2018. 12|이중흐름 3차원 합성곱 신경망 구조를 이용한 효율적인 손 제스처 인식 방법|[Link](https://github.com/bolero2/bolero2/blob/main/papers/%5B2018.12%5D%20이중흐름%203차원%20합성곱%20신경망%20구조를%20이용한%20효율적인%20손%20제스처%20인식%20방법.pdf)|
