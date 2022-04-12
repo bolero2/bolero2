@@ -11,17 +11,10 @@
   * Android / iOS  
 
 ## 🛠 Tech Stack
-1. C/C++
-3. Java
-4. **Python**
-5. Android Programming
-6. C# (Unity)
-7. Assembly (Reverse Engineering)
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"> <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">  
 
 ## 🛠 Deep Learning Framework
-1. **Pytorch (Facebook)**
-2. Tensorflow (Google)
-3. MXNet (Apache)
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/mxnet-0096D6?style=for-the-badge&logo=mxnet&logoColor=white">
 
 ## 📝 Tech blog
 - 👉 My blog is here: [velog.io/@bolero2](https://velog.io/@bolero2)
