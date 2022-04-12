@@ -27,10 +27,11 @@
 - 👉 My blog is here: [velog.io/@bolero2](https://velog.io/@bolero2)
 
 ## 🎬 Projects
-1. 시각 AI와 on-device AI 기술을 활용한 차세대 lens-free cell counter & analyzer 개발 (with. SOL)
-  * Cell Detection Result Image : [Cell Detection](https://github.com/bolero2/bolero2/blob/main/images/cellcounter-1.jpg)
-  * White Blood Cell Detection Result Image (Raabin WBC Dataset) : [WBC Detection](https://github.com/bolero2/bolero2/blob/main/images/wbc-1.jpg)
-2. 내시경 이미지 기반 위암/대장암 진단 AI (병변 Detection AI & 병기 Classification AI) (with. CyberLogitec)
+1. 시각 AI와 on-device AI 기술을 활용한 차세대 lens-free cell counter & analyzer 개발 (with. SOL, 21.05 ~ 21.11)  
+  * Cell Detection Result Image : [Cell Detection](https://github.com/bolero2/bolero2/blob/main/images/cellcounter-1.jpg)  
+  * White Blood Cell Detection Result Image (Raabin WBC Dataset) : [WBC Detection](https://github.com/bolero2/bolero2/blob/main/images/wbc-1.jpg)  
+
+2. 내시경 이미지 기반 위암/대장암 진단 AI (병변 Detection AI & 병기 Classification AI) (with. CyberLogitec, 20.10 ~ 21.02)
 
 ## 📖 Papers
 |Date|Name|PDF|
