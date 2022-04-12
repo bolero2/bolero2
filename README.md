@@ -9,7 +9,7 @@
 
   🌱 **I’m currently learning...**  
     Computer Vision + Image Processing  
-    _**Deep Learning + Artificial Intelligence**_  
+    _**Deep Learning**_  
     Machine Learning  
     Android / iOS  
 
