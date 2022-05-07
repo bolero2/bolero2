@@ -41,6 +41,14 @@
   |2019. 12|Atrous Convolution과 Grad-CAM을 통한 손 끝 탐지|[Link](https://github.com/bolero2/bolero2/blob/main/papers/%5B2019.12%5D%20Atrous%20Convolution과%20Grad-CAM을%20통한%20손%20끝%20탐지.pdf)|
   |2020. 06|실시간 손끝 탐지를 위한 VGGNet 기반 객체 탐지 네트워크|[Link](https://github.com/bolero2/bolero2/blob/main/papers/%5B2020.06%5D%20실시간%20손끝%20탐지를%20위한%20VGGNet%20기반%20객체%20탐지%20네트워크.pdf)|
   |2018. 12|**[KSC2018] Award Confirmation(수상 확인서)**|[Link](https://github.com/bolero2/bolero2/blob/main/papers/Award_confirmation_KSC2018_20190215.pdf)|
+  
+  -----
+  
+  ### 🙏 Rating
+  
+  ![bolero2's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolero2&count_private=false&show_icons=true&theme=cobalt)
+  
+  [![bolero2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolero2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <!--
