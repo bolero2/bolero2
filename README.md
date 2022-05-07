@@ -17,7 +17,7 @@
   
   |Github Stats|Top Langs|
   |:-----:|:-----:|
-  |![bolero2's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolero2&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt)|[![bolero2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolero2&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
+  |![bolero2's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolero2&count_private=true&show_icons=true&theme=cobalt)|[![bolero2's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolero2&layout=compact&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats)|
 
   -----
   
