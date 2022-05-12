@@ -8,7 +8,7 @@
   [NeuralWorksLab](https://neuralworks.io)  
 
   🌱 **I’m currently learning...**  
-    _**Deep Learning**_
+    _**Deep Learning**_  
     Machine Learning  
     Computer Vision + Image Processing  
     Computer Graphics  
