@@ -8,10 +8,11 @@
   [NeuralWorksLab](https://neuralworks.io)  
 
   🌱 **I’m currently learning...**  
-    Computer Vision + Image Processing  
-    _**Deep Learning**_  
+    _**Deep Learning**_
     Machine Learning  
-    Android / iOS  
+    Computer Vision + Image Processing  
+    Computer Graphics  
+    (+ Android / iOS)  
 
   ### 📈 Statistics
   
