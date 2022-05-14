@@ -10,4 +10,3 @@ print("REPOSITORY :", repo)
 
 with ("~/prefix.md", 'w') as f:
     f.write(prefix)
-:
