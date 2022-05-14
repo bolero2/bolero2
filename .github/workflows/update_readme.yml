@@ -26,7 +26,8 @@ jobs:
         env: 
           PREFIX: ${{ secrets.BOLERO2_GITHUB_IO_INDEX_HTML_PREFIX }}
         run: |
-          echo $PREFIX
+          echo $PREFIX > prefix.md
           pwd
+          cat prefix.md
           cat README.md
      
