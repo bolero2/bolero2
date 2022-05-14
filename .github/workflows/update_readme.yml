@@ -27,9 +27,6 @@ jobs:
         run: |
           cd cicd
           python add_prefix.py
-
-          echo $PREFIX > prefix.md
-          pwd
-          cat prefix.md
+          cat ~/prefix.md
           cat ../README.md
      
