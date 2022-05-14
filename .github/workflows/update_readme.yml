@@ -26,6 +26,7 @@ jobs:
       - name: "Copy bolero2/README.md > bolero2.github.io/docs/index.md"
         run: |
           echo "Now workdir : `pwd`"
+          echo $PREFIX
           cd cicd
           python add_prefix.py
           cat prefix.md
