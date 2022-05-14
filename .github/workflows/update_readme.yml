@@ -8,6 +8,7 @@ jobs:
   build:
     env:
       BOLERO2_REPOSITORY: /home/runner/work/bolero2/bolero2
+      PREFIX: ${{ secrets.BOLERO2_GITHUB_IO_INDEX_HTML_PREFIX }}
       AUTHOR: bolero2 README.md main branch
       PROJECT: bolero2 README.md update
     runs-on: ubuntu-latest
@@ -23,8 +24,6 @@ jobs:
           git clone https://github.com/bolero2/bolero2.github.io.git
      
       - name: "Copy bolero2/README.md > bolero2.github.io/docs/index.md"
-        env: 
-          PREFIX: ${{ secrets.BOLERO2_GITHUB_IO_INDEX_HTML_PREFIX }}
         run: |
           cd cicd
           python add_prefix.py
