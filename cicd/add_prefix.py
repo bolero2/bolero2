@@ -8,5 +8,7 @@ repo = os.getenv("BOLERO2_REPOSITORY")
 print("PREFIX :", prefix)
 print("REPOSITORY :", repo)
 
-with open("~/prefix.md", 'w') as f:
+pwd = os.getcwd()
+
+with open(os.path.join(pwd, "prefix.md"), 'w') as f:
     f.write(prefix)
