@@ -15,11 +15,9 @@ show_sidebar: true
 
 print("PREFIX :", prefix)
 print("REPOSITORY :", repo)
+print("String :", string)
 
 pwd = os.getcwd()
 
 with open(os.path.join(pwd, "prefix.md"), 'w') as f:
-    try:
-        f.write(prefix)
-    except:
-        f.write(string)
+    f.write(string)
