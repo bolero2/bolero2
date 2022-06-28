@@ -1,11 +1,8 @@
 # 🧐 bolero2
 
-(Original Read me is [Here](https://github.com/bolero2/bolero2/blob/main/README.md))
+<a href="https://velog.io/@bolero2"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheocjf1025@gmail.com)](mailto:sheocjf1025@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbolero2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Tech Blog Badge](http://img.shields.io/badge/Tech-Blog-20c997?style=flat-square&logo=Velog&link=https://velog.io/@bolero2)]([[https://velog.io/@bolero2](https://velog.io/@bolero2)](https://velog.io/@bolero2)) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheocjf1025@gmail.com)](mailto:sheocjf1025@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbolero2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-🔭 **I’m currently working on...**  
-[NeuralWorksLab](https://neuralworks.io)  
+🔭 **I’m currently working on...**  [NeuralWorksLab](https://neuralworks.io)  
 
 🌱 **I’m currently learning...**  
   - _**Deep Learning**_  
@@ -25,7 +22,7 @@
 ## 🛠 Languages & Frameworks
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"> <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logoColor=white"> 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/mxnet-3B86BF?style=for-the-badge&logo=mxnet&logoColor=white">
 
