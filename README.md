@@ -8,7 +8,7 @@
 
 -----
 
-🔭 **I’m currently working on...**  [NeuralWorksLab](https://neuralworks.io)  
+🔭 **I’m currently working on...**  [GoPizza](https://gopizza.kr)  
 
 🌱 **I’m currently learning...**  
   - _**Deep Learning**_  
