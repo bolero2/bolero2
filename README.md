@@ -1,10 +1,12 @@
-# 🧐 Dae-Cheol, Noh (bolero2)
+# 🙋🏻‍♂️ Dae-Cheol, Noh (bolero2)
 
-<a href="https://velog.io/@ravel95"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheocjf1025@gmail.com)](mailto:sheocjf1025@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbolero2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://bolero2.notion.site/Posts-f1e00662053841fba67cc7e5f3402e66"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=Black"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheocjf1025@gmail.com)](mailto:sheocjf1025@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbolero2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Visit my notion page!
+## 🚀 Visit my notion page!
 * Profile : https://bolero2.notion.site/Profile-Dae-Cheol-Noh-3dc6c47dd0254cc48922ffe8af22a3bf
 * Posts   : https://bolero2.notion.site/Posts-f1e00662053841fba67cc7e5f3402e66
+
+-----
 
 🔭 **I’m currently working on...**  [NeuralWorksLab](https://neuralworks.io)  
 
@@ -51,13 +53,3 @@
 |2020. 06|실시간 손끝 탐지를 위한 VGGNet 기반 객체 탐지 네트워크|[Link](https://github.com/bolero2/bolero2/blob/main/papers/%5B2020.06%5D%20실시간%20손끝%20탐지를%20위한%20VGGNet%20기반%20객체%20탐지%20네트워크.pdf)|
 |2018. 12|**[KSC2018] Award Confirmation(수상 확인서)**|[Link](https://github.com/bolero2/bolero2/blob/main/papers/Award_confirmation_KSC2018_20190215.pdf)|  
 
-<!-- **bolero2/bolero2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- #Here are some ideas to get you started: -->
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
