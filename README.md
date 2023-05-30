@@ -6,8 +6,6 @@
 
 [![bolero2 Medium](https://github-readme-medium.vercel.app/?username=bolero2)](https://medium.com/@bolero2)
 
-<a href="https://bolero2.notion.site/Posts-f1e00662053841fba67cc7e5f3402e66"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=Black"/></a> 
-
 ## 🚀 Visit my notion page!
 * Profile : https://bolero2.notion.site/Profile-Dae-Cheol-Noh-3dc6c47dd0254cc48922ffe8af22a3bf
 * Posts   : https://medium.com/@bolero2
