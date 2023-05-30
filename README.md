@@ -1,5 +1,7 @@
 # 🙋🏻‍♂️ Dae-Cheol, Noh (bolero2)
 
+[![bolero2 Medium](https://github-readme-medium.vercel.app/?username=bolero2)](https://medium.com/@bolero2)
+
 <a href="https://bolero2.notion.site/Posts-f1e00662053841fba67cc7e5f3402e66"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=Black"/></a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheocjf1025@gmail.com)](mailto:sheocjf1025@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbolero2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🚀 Visit my notion page!
