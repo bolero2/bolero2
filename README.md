@@ -10,7 +10,7 @@
 
 ## 🚀 Visit my notion page!
 * Profile : https://bolero2.notion.site/Profile-Dae-Cheol-Noh-3dc6c47dd0254cc48922ffe8af22a3bf
-* Posts   : https://bolero2.notion.site/Posts-f1e00662053841fba67cc7e5f3402e66
+* Posts   : https://medium.com/@bolero2
 
 -----
 
