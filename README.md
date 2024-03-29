@@ -12,7 +12,7 @@
 
 -----
 
-🔭 **I’m currently working on...**  [GOPIZZA](https://gopizza.kr)  
+🔭 **I’m currently working on...**  [Nota AI](https://www.nota.ai)  
 
 🌱 **I’m currently learning...**  
   - _**Deep Learning**_  
