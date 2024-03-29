@@ -44,6 +44,7 @@
   - White Blood Cell Detection Result Image (Raabin WBC Dataset) : [WBC Detection](https://github.com/bolero2/bolero2/blob/main/images/wbc-1.jpg)  
 
 * **내시경 이미지 기반 위암/대장암 진단 AI (병변 Detection AI & 병기 Classification AI) (with. CyberLogitec, 20.10 ~ 21.02)**
+  - Cancer Detection Result Image : [Cancer Detection](https://github.com/bolero2/bolero2/blob/main/images/cancer.jpg)
 
 -----
 
